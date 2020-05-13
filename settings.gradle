@@ -1,0 +1,2 @@
+rootProject.name='Boolean Model Search Engine - IR Project'
+include ':app'
